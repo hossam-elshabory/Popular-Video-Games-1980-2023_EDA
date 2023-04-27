@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPOSITORY/blob/BRANCH/NOTEBOOK.ipynb) -OR-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/hossam-elshabory/Popular-Video-Games-1980-2023_EDA/blob/main/popular-video-games-1980-2023-eda.ipynb) -OR-
 [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/hossamelshabory97/popular-video-games-1980-2023-eda/notebook)
 
 </div>
