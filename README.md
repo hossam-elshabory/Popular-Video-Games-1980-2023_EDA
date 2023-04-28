@@ -7,7 +7,10 @@
 
 <h1 align="center">Popular Video Games EDA</h1>
 
-<div style="text-align:center;">    <img src="https://i.imgur.com/sDrZ07n.jpg" width=800 alt="project-banner">
+<div style="text-align:center;">
+
+<img src="https://i.imgur.com/sDrZ07n.jpg" width=800 alt="project-banner">
+
 </div>
 
 
@@ -59,7 +62,7 @@ Backlogged is a video game collection website mixed with social elements to focu
 
 My analysis of popular video games from 1980 to 2023 revealed several key insights. We found that the most popular video game genres are **Adventure**, followed by RPG, Platform, and Shooter. Within these genres, some of the most popular games include **Metal Gear Solid 2: Sons of Liberty** (Adventure), Chrome Dino (Arcade), Devil May Cry (Brawler), and Mario Party Superstars (Card & Board Game).
 
-I also observed that the average rating of video games experienced **significant fluctuations from 1980 through the 1990s**, with a notable decline in the late 1980s. However,** starting in the 2000s, the average rating has become more stable and consistent**.
+I also observed that the average rating of video games experienced **significant fluctuations from 1980 through the 1990s**, with a notable decline in the late 1980s. However, **starting in the 2000s, the average rating has become more stable and consistent**.
 
 In terms of player engagement, I found that **Fruit Ninja Classic** had the highest level of engagement, followed by Slither.io, Happy Wheels, and Ms. Pac-Man.
 
