@@ -8,9 +8,7 @@
 <h1 align="center">Popular Video Games EDA</h1>
 
 <div style="text-align:center;">
-
-<img src="https://i.imgur.com/sDrZ07n.jpg" width=800 alt="project-banner">
-
+  <img src="https://i.imgur.com/sDrZ07n.jpg" width=800 alt="project-banner">
 </div>
 
 
