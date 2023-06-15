@@ -14,7 +14,6 @@
 
 ---
 - [Introduction](#introduction)
-    - [In this project,](#in-this-project)
 - [Data Source](#data-source)
 - [Conclusion](#conclusion)
   - [Findings Summary](#findings-summary)
@@ -28,7 +27,7 @@ Video games have become an increasingly popular form of entertainment in recent 
 Today, video games are played by people of all ages and backgrounds, and the gaming community has grown to be a vibrant and passionate group of individuals. The rise of online gaming has allowed gamers to connect and play with others from all over the world, creating a global community that is constantly evolving and growing.
 
 
-### In this project, 
+### In this project, <!-- omit in toc -->
 
 We will be exploring a dataset of popular video games dating from 1980 to 2023, including 
 - Release dates. 
